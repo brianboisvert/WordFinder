@@ -1,0 +1,2 @@
+class KimsThought < ApplicationRecord
+end

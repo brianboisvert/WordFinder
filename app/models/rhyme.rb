@@ -1,0 +1,2 @@
+class Rhyme < ApplicationRecord
+end
